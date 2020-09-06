@@ -1,5 +1,5 @@
 # trash-bin
-Something useful, found all over the web
+Something useful (and not very in fact), found all over the web
 
 <b>timed</b> function, measures computational time of a function 
 
